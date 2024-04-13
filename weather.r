@@ -4,7 +4,7 @@ library(dplyr)
 library(lubridate)
 
 # Set the working directory
-setwd("C:/Users/vedan/Desktop/Main/Weather_data_analysis")
+setwd("Your directory")
 
 # Read the CSV file
 weather_data <- read.csv("weather_data.csv", stringsAsFactors = FALSE)
