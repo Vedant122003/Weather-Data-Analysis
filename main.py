@@ -26,7 +26,7 @@ def save_to_csv(data, filename):
         print("No data available to save.")
 
 # Replace 'Your_API_Key' with your actual API key
-api_key = "rNcpLUlmDbIDeKRLUImEhifXZnqEmmcw"
+api_key = "Your_API_Key"
 station_id = 'GHCND:IN023011900'  # Example Station ID for Agra, India
 start_date = '1960-01-01'
 end_date = '1960-12-31'
